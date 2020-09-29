@@ -1,0 +1,1 @@
+A simple script for organising images onto a page for easy printing. Useful for creating catalogs or previews of stored items.
